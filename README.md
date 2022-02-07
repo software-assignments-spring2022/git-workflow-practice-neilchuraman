@@ -1,5 +1,10 @@
-My link is https://thenextweb.com/news/software-engineers-backbone-of-space-tech
+# Git Practice
+A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
 
+# Complexity is killing software developers
+#Software Engineers Backbone Of Space Tech
+
+##Summary
 I think it is interesting that developers and software engineers write the software that does the calculations to make sure that rockets will reach their target and that sattelites don't collide
 with each other, however, many don't consider those developers as "rocket scientists". As satellite internet becomes more common, there are more satellites in the sky and also these satellites
 have to orbit lower. As a result of this, it makes it more likely that there will be collisions. It is really interesting that the developers at StarLink were able to write software to get
